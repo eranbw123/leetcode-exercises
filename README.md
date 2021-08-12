@@ -1,1 +1,1 @@
-# eranbw123 leetcode exercises
+# eranbw123 leetcode algorithms solutions
